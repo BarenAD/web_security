@@ -1,10 +1,10 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-##Требования
+## Требования
 
-#####Всё с: `https://laravel.com/docs/7.x#server-requirements`
-#####composer
-#####установленная субд
+##### Всё с: `https://laravel.com/docs/7.x#server-requirements`
+##### composer
+##### установленная субд
 
 ## Инструкция по развёртыванию
 1. Копируем .env.example => .env
